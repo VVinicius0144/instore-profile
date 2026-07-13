@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+- IRL phone validation rules
+
 ## [2.9.6] - 2022-04-07
 
 ## [2.9.5] - 2022-04-07
